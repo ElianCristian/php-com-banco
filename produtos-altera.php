@@ -23,8 +23,11 @@
 	?>
 
 
-<form action="aula29-form-cadastro.php">
+<form action="produtos-cadastro.php">
 	<br><input type="submit" value="Ir para Cadastro">
+</form>
+<form action="produtos-delete.php">
+	<br><br><input type="submit" value="Excluir Produtos"><br><br>
 </form>
 
 </body>

@@ -12,5 +12,11 @@
 	<input type="submit" value="Cadastrar">
 </form>
 
+<form action="produtos-altera.php">
+	<br><br><input type="submit" value="Editar Produtos"><br><br>
+</form>
+<form action="produtos-delete.php">
+	<br><br><input type="submit" value="Excluir Produtos"><br><br>
+</form>
 </body>
 </html>
