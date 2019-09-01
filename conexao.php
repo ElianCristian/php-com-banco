@@ -1,4 +1,4 @@
 <?php
 
-$con = mysqli_connect("localhost", "root", "");
-$db = mysqli_select_db($con, "cursophp");
+$con = mysqli_connect("localhost", "root", "", "cursophp");
+//$db = mysqli_select_db($con, "cursophp");
